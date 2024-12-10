@@ -1,0 +1,7 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{2}{}%
+\contentsline {section}{\numberline {2}Теория}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Первый подход: нахождение $\arg \max (\text {Tol})$}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Второй метод: нахождение оценки при помощи твинной арифметики}{3}{}%
+\contentsline {section}{\numberline {3}Результаты}{4}{}%
+\contentsline {section}{\numberline {4}Код и ресурсы}{8}{}%
